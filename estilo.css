@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* pagina de estilo hecha por Andrés S. Pereira Ch. 14/12/18 */
+body{
+    background: rgb(45, 134, 82);
+    font-family: sans-serif;
+}
+h1{
+    text-transform: capitalize;
+    color: black;
+}
+p{
+    font-size: 150%;
+}
+p.a{
+    color: white;
+    font-style: oblique;
+    font-family: serif;
+}
+p.b{
+    color: rgb(255, 223, 179);
+}
+p.c{
+    color: rgb(250, 159, 26);
+    font-family: monospace;
+    font-size: 200%;
+}
+p.d{
+    color: rgb(230, 63, 80);
+    font-family: cursive;
+}
